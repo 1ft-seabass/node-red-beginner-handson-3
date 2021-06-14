@@ -84,6 +84,12 @@ https://forms.gle/kZX3Zm4NM4pGLzyP6
 
 ![](https://i.gyazo.com/7d5e6a2918ab27c069f93f55b121566b.png)
 
+## 次回イベント情報！
+
+https://node-red.connpass.com/event/215653/
+
+
+
 ## ありがとうございました
 
 ![image](https://i.gyazo.com/6132b1f8e99f5725151417d7c146c6d2.png)
