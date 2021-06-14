@@ -39,7 +39,12 @@
 
 ## ブレイクアウトルーム
 
-2つのルームに分けます！
+2つのメインルーム＋3つのヘルプルームに分けます！
+
+* メインルーム
+  * 
+* ヘルプルーム
+  * 
 
 > ![](https://lh3.googleusercontent.com/w30582mUzbumJgyA6RXJ1tAkiiAkqIZC0n1b6ld4tl_7h_ZkoS6OT4Kv96ETl4R2WQFL-UQyKpZyUWIN83HzCYtmbzmJ2w4OAksieCvOJ9zDRMQH4Cb_GqMdv1MkY672KZh_baC0)
 > [Zoomのブレイクアウトルーム \(グループ分け\) 機能の使い方・オプション機能を徹底解説 \| ビズシル](https://blog.coubic.com/online/zoom-breakoutroom/)
@@ -72,6 +77,12 @@
 ## お疲れ様でした
 
 ![image](https://i.gyazo.com/5a6aa1d064fcd403fa67091c7d0e417a.png)
+
+## イベントアンケートよろしくお願いします！
+
+https://forms.gle/kZX3Zm4NM4pGLzyP6
+
+![](https://i.gyazo.com/7d5e6a2918ab27c069f93f55b121566b.png)
 
 ## ありがとうございました
 

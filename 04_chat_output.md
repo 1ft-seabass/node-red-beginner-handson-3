@@ -53,13 +53,13 @@
 田中ワークショップルームの人
 
 ```
-＜当日だけ開かれたDiscordのURLを記述していました＞
+https://discord.com/api/webhooks/853937315574710274/bnOQAsAJvGNSMoM_bx_WNW43Q3rdtamMjpvpMKxYGbVbPmSdM0Yp1oWF-kCVgrXca4Hz
 ```
 
 横井ワークショップルームの人
 
 ```
-＜当日だけ開かれたDiscordのURLを記述していました＞
+https://discord.com/api/webhooks/853937032157462538/pbrs0Qts0HOJ2ZcCTrYxLdOsAZYhInDuAfJerL-g1cBQ_Zi3UhFSi0OO3PxOr3K9qT9A
 ```
 
 こちらです↑
@@ -154,13 +154,19 @@ http request ノードをダブルクリックして詳細を設定します。
 
 ![image](https://i.gyazo.com/6c3d0e4183aabfa1f05e182ecf82aa77.png)
 
-URL の項目に今回のチャンネルへメッセージが送れる API URL の
+URL の項目に今回のチャンネルへメッセージが送れる API URL を設定します。
+
+田中ワークショップルームの人
 
 ```
-＜当日だけ開かれたDiscordのURLを記述していました＞
+https://discord.com/api/webhooks/853937315574710274/bnOQAsAJvGNSMoM_bx_WNW43Q3rdtamMjpvpMKxYGbVbPmSdM0Yp1oWF-kCVgrXca4Hz
 ```
 
-を設定します。
+横井ワークショップルームの人
+
+```
+https://discord.com/api/webhooks/853937032157462538/pbrs0Qts0HOJ2ZcCTrYxLdOsAZYhInDuAfJerL-g1cBQ_Zi3UhFSi0OO3PxOr3K9qT9A
+```
 
 設定出来たら、完了ボタンをクリックして設定を完了します。
 
